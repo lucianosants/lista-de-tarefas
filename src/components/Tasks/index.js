@@ -10,10 +10,7 @@ export default function Tasks({ tasks, handleEdit, handleDelete }) {
 			<ul className="tasks">
 				{tasks.map((task, index) => (
 					<li key={task}>
-						<div className="left-side">
-							<input type="checkbox" className="input-checker" />
-							{task}
-						</div>
+						{task}
 						<span className="icons">
 							<PencilSimple
 								onClick={(e) => handleEdit(e, index)}
