@@ -3,14 +3,14 @@
 <img src="https://user-images.githubusercontent.com/93036812/180626446-f2cce0d1-fdc5-4cf7-891b-efc0d5530fa3.png" />
 
 
-Minha primeira aplicação feita com `React`. Uma minimalista lista de tarefas, com localStorage para que sejam salvas as tarefas registradas.
+Minha primeira aplicação feita com `React`. Uma minimalista lista de tarefas, com `localStorage` para que sejam salvas as tarefas registradas.
 
-Para rápida criação, utilizei o framework Tailwindcss, para também testar em prática meus conhecimentos com o mesmo.
+Para uma rápida criação, utilizei o framework `Tailwindcss`, para também testar em prática meus conhecimentos com o mesmo.
 
 ## Principais techs usadas:
 - React
 - JavaScript
-- Tailwind
+- Tailwindcss
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
